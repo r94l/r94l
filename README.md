@@ -10,6 +10,10 @@ I enjoy building resilient cloud architectures, automating repetitive tasks, and
 
 ---
 
+## 🏆 Certifications
+
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
+
 ## 🌩️ Core Skills
 
 - **Cloud:** Azure Compute, Networking, Storage, Backup, RBAC, Monitoring  
