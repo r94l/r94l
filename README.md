@@ -12,7 +12,8 @@ I enjoy building resilient cloud architectures, automating repetitive tasks, and
 
 ## 🏆 Certifications
 
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **Microsoft Certified: Administering Windows Server Hybrid Core Infrastructure (AZ-800)** 
 
 ## 🌩️ Core Skills
 
