@@ -37,7 +37,6 @@ I enjoy building resilient cloud architectures, automating repetitive tasks, and
 - Building an **Azure Hybrid Identity Lab**  
 - Creating IaC templates using **Terraform & Bicep**  
 - Designing monitoring dashboards with **Azure Monitor + Prometheus**  
-- Preparing for the **Microsoft AZ-800 certification**
 
 ---
 
