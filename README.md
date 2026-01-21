@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raheem | Cloud & Infrastructure Engineer.
 
-🚀 Cloud Infrastructure | Azure Administration | Automation | Hybrid Identity  
+🚀 Cloud Infrastructure | DevOps | Azure Administration | Automation | Hybrid Identity  
 🔹 3+ years hands-on with Microsoft Azure  
 🔹 Skilled in Azure AD (Entra ID), AD DS, Hybrid Identity, Azure Networking  
 🔹 Experienced with Infrastructure Automation (Terraform, Bicep, PowerShell)  
@@ -22,22 +22,8 @@ I enjoy building resilient cloud architectures, automating repetitive tasks, and
 - **Networking:** Hub–Spoke, VPN Gateway, P2S, Private Endpoints, Firewalls  
 - **Automation:** PowerShell, Python, Terraform, Bicep  
 - **DevOps:** Azure DevOps Pipelines, GitHub Actions, CI/CD  
-- **Hybrid:** Azure Arc, Azure Monitor, Log Analytics, Prometheus (hybrid metrics)  
-
----
-
-## 📘 Featured Projects
-
-(Coming soon — building live projects to showcase Azure hybrid identity, CI/CD, infrastructure as code, monitoring, and disaster recovery.)
-
----
-
-## 🎯 What I'm Working On
-
-- Building an **Azure Hybrid Identity Lab**  
-- Creating IaC templates using **Terraform & Bicep**  
-- Designing monitoring dashboards with **Azure Monitor + Prometheus**  
-
+- **Hybrid:** Azure Arc, Azure Monitor, Log Analytics, Prometheus (hybrid metrics)
+- 
 ---
 
 ## 🔗 Connect With Me
