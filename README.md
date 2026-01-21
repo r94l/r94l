@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raheem | Cloud & Infrastructure Engineer.
+# 👋 Hi, I'm Raheem | DevOps / Cloud Infrastructure Engineer.
 
 🚀 Cloud Infrastructure | DevOps | Azure Administration | Automation | Hybrid Identity  
 🔹 3+ years hands-on with Microsoft Azure  
