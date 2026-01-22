@@ -23,7 +23,6 @@ I enjoy building resilient cloud architectures, automating repetitive tasks, and
 - **Automation:** PowerShell, Python, Terraform, Bicep  
 - **DevOps:** Azure DevOps Pipelines, GitHub Actions, CI/CD  
 - **Hybrid:** Azure Arc, Azure Monitor, Log Analytics, Prometheus (hybrid metrics)
-- 
 ---
 
 ## 🔗 Connect With Me
