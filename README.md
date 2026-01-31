@@ -7,8 +7,10 @@ Azure | Compute, Networking, Storage
 AWS | VPC, EC2, IAM (multi-cloud patterns)
 
 ### 🧰 DevOps & Automation
-CI/CD | GitHub Actions, Azure DevOps  
+CI/CD | GitHub Actions, Azure DevOps
+
 IaC | Terraform, Bicep
+
 Observability & Ops | Prometheus, Azure Monitor, Logging, Alerts, SecOps
 
 ---
