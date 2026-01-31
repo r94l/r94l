@@ -20,6 +20,7 @@ Terraform | IaC | Bicep | CI/CD
 
 ### 🔍 Observability & Ops
 Prometheus | Azure Monitor | Logging, Alerts | SecOps basics
+
 ---
 
 ## 🔗 Connect With Me
