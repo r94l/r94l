@@ -1,28 +1,22 @@
 # 👋 Hey, I'm Raheem
 Cloud Solutions Architect × DevOps Engineer
-
 Designing scalable, secure, and automated cloud infrastructure, where architecture meets execution. 
 
-I build resilient cloud solutions and reliable automation patterns that solve real problems.
+---
+### ⚙️ Cloud & Infrastructure
+Azure | Compute, Networking, Storage  
+AWS | VPC, EC2, IAM (multi-cloud patterns)
+
+### 🧰 DevOps & Automation
+CI/CD | GitHub Actions, Azure DevOps  
+IaC | Terraform, Bicep
+Observability & Ops | Prometheus, Azure Monitor, Logging, Alerts, SecOps
 
 ---
 ### 🏅 Certifications
 - Microsoft Certified: Azure Solutions Architect (AZ-305)
 - Microsoft Certified: Azure Administrator (AZ-104)
 - Microsoft Certified: Windows Server Hybrid Infrastructure (AZ-800)
-  
-### ⚙️ Cloud & Infrastructure
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> Azure | Compute, Networking, Storage  
-AWS | VPC, EC2, IAM (multi-cloud patterns)
-
-### 🧰 DevOps & Automation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub Actions, Azure DevOps  
-Terraform | IaC | Bicep | CI/CD
-
-### 🔍 Observability & Ops
-Prometheus | Azure Monitor | Logging, Alerts | SecOps
-
----
 
 ## 🔗 Connect With Me
 
