@@ -1,28 +1,24 @@
-# 👋 Hi, I'm Raheem | DevOps / Cloud Infrastructure Engineer.
-
-🚀 Cloud Infrastructure | DevOps | Azure Administration | Automation | Hybrid Identity  
-🔹 4+ years hands-on with Microsoft Azure  
-🔹 Skilled in Azure AD (Entra ID), AD DS, Hybrid Identity, Azure Networking  
-🔹 Experienced with Infrastructure Automation (Terraform, Bicep, PowerShell)  
-🔹 Focused on monitoring, reliability, and secure cloud design  
-
-I enjoy building resilient cloud architectures, automating repetitive tasks, and designing hybrid solutions that connect on-prem environments to Azure securely and efficiently.
+# 👋 Hey, I'm Raheem
+Cloud Solutions Architect × DevOps Engineer
+Designing scalable, secure, and automated cloud infrastructure — where architecture meets execution. 
+I enjoy building resilient cloud architectures, automating repetitive tasks, and designing hybrid solutions that connect on-prem environments to the Cloud securely and efficiently.
 
 ---
+### 🏅 Certifications
+- Microsoft Certified: Azure Solutions Architect (AZ-305)
+- Microsoft Certified: Azure Administrator (AZ-104)
+- Microsoft Certified: Windows Server Hybrid Infrastructure (AZ-800)
+  
+### ⚙️ Cloud & Infrastructure
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> Azure | Compute, Networking, Storage  
+AWS | VPC, EC2, IAM (multi-cloud patterns)
 
-## 🏆 Certifications
+### 🧰 DevOps & Automation
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub Actions, Azure DevOps  
+Terraform | IaC | Bicep | CI/CD
 
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- **Microsoft Certified: Administering Windows Server Hybrid Core Infrastructure (AZ-800)** 
-
-## 🌩️ Core Skills
-
-- **Cloud:** Azure Compute, Networking, Storage, Backup, RBAC, Monitoring  
-- **Identity:** Azure AD, AD DS, Cloud Sync, Conditional Access  
-- **Networking:** Hub–Spoke, VPN Gateway, P2S, Private Endpoints, Firewalls  
-- **Automation:** PowerShell, Python, Terraform, Bicep  
-- **DevOps:** Azure DevOps Pipelines, GitHub Actions, CI/CD  
-- **Hybrid:** Azure Arc, Azure Monitor, Log Analytics, Prometheus (hybrid metrics)
+### 🔍 Observability & Ops
+Prometheus | Azure Monitor | Logging, Alerts | SecOps basics
 ---
 
 ## 🔗 Connect With Me
