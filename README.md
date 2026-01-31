@@ -20,7 +20,7 @@ AWS | VPC, EC2, IAM (multi-cloud patterns)
 Terraform | IaC | Bicep | CI/CD
 
 ### 🔍 Observability & Ops
-Prometheus | Azure Monitor | Logging, Alerts | SecOps basics
+Prometheus | Azure Monitor | Logging, Alerts | SecOps
 
 ---
 
