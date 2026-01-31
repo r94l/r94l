@@ -3,7 +3,7 @@ Cloud Solutions Architect × DevOps Engineer designing scalable, secure, and aut
 
 ---
 ### ⚙️ Cloud & Infrastructure
-Azure | Compute, Networking, Storage  
+Azure | Compute, Networking, Storage, Security 
 
 AWS | VPC, EC2, IAM (multi-cloud patterns)
 
