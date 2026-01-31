@@ -2,7 +2,8 @@
 Cloud Solutions Architect × DevOps Engineer
 
 Designing scalable, secure, and automated cloud infrastructure, where architecture meets execution. 
-I enjoy building resilient cloud architectures, automating repetitive tasks, and designing hybrid solutions that connect on-prem environments to the Cloud securely and efficiently.
+
+I build resilient cloud solutions and reliable automation patterns that solve real problems.
 
 ---
 ### 🏅 Certifications
