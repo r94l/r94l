@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Raheem 👋</h1>
+<h1 align="center">Hey, I'm Raheem! 👋</h1>
 
 <p align="center">
-  <strong>Cloud & DevOps Engineer × Solutions Architect</strong><br/>
-  Building secure, scalable and automated cloud infrastructure — where architecture meets execution.
+  <strong>Cloud & DevOps Engineer × Cloud Solutions Architect</strong><br/>
+  Building secure, scalable and automated cloud infrastructure where architecture meets execution.
 </p>
 
 <p align="center">
@@ -15,13 +15,12 @@
 
 ### 🧭 About Me
 
-Cloud & DevOps Engineer with 4+ years at the intersection of Solutions Architecture and DevOps. I design and operate production-grade infrastructure across Azure and AWS — from IaC and CI/CD pipelines to Kubernetes, observability stacks and hybrid environments.
+Cloud & DevOps Engineer with 4+ years at the intersection of Solutions Architecture and DevOps. I design and operate production-grade infrastructure across Azure and AWS from IaC and CI/CD pipelines to Kubernetes, observability stacks and hybrid environments.
 
 - 🏗️ Reduced provisioning from hours to ~20 minutes with Terraform-led IaC
 - 🚀 Delivered 70% faster release cycles through standardised CI/CD pipelines
 - 📈 Maintained 99.99% uptime across 50+ production workloads
 - 🔐 Reduced audit findings by 40% through cloud security and governance baselines
-- 📌 Currently studying: **AWS SAA-C03** and **CKA**
 
 ---
 
@@ -75,7 +74,6 @@ Cloud & DevOps Engineer with 4+ years at the intersection of Solutions Architect
 - ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
 - ✅ Microsoft Certified: Windows Server Hybrid Administrator (AZ-800)
 - 🔄 AWS Certified Solutions Architect Associate (SAA-C03) — *In Progress*
-- 🔄 Certified Kubernetes Administrator (CKA) — *In Progress*
 
 ---
 
