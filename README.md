@@ -57,17 +57,6 @@ Cloud & DevOps Engineer with 4+ years at the intersection of Solutions Architect
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [GitOps AKS Pipeline](https://github.com/r94l/gitops-aks-azure) | Production-ready AKS infrastructure with GitOps workflows via ArgoCD and Helm | Terraform, AKS, ArgoCD, Helm, GitHub Actions |
-| [Prometheus Observability Stack](https://github.com/r94l/prometheus-observability-stack) | End-to-end monitoring and alerting platform deployed on AWS with Terraform | Terraform, AWS EC2, Prometheus, Alertmanager, Grafana |
-| [AWS DevOps Docker Compose](https://github.com/r94l/aws-devops-docker-compose) | Containerised two-tier app on AWS EC2 with fully automated CI/CD pipeline | AWS EC2, Docker, Docker Compose, GitHub Actions |
-| [IaC Terraform AKS](https://github.com/r94l/iac-terraform-aks-azure) | Enterprise-grade AKS deployment with secure state management and RBAC-aligned IAM | Terraform, AKS, Azure |
-
----
-
 ### 🏅 Certifications
 
 - ✅ Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
