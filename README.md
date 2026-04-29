@@ -62,6 +62,7 @@ Cloud & DevOps Engineer with 4+ years at the intersection of Solutions Architect
 - ✅ Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
 - ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
 - ✅ Microsoft Certified: Windows Server Hybrid Administrator (AZ-800)
+- ✅ Kubernetes and Cloud Native Associate (KCNA)
 
 ---
 
